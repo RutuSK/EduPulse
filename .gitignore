@@ -1,0 +1,7 @@
+.env
+sppu_data/pdfs/
+sppu_data/pages/
+venv/
+__pycache__/
+*.pyc
+frontend/uploads/
